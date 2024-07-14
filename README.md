@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/serhat-taştan-2100b820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhat-taştan-2100b820b" height="30" width="40" /></a>
 <a href="https://fb.com/serhat.tastan.5496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="serhat.tastan.5496" height="30" width="40" /></a>
-<a href="https://medium.com/@serhattastann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@serhattastannn" height="30" width="40" /></a>
+<a href="https://medium.com/@serhattastann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@serhattastan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
