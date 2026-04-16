@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhat Taştan</h1>
-<h3 align="center">Software Developer | Engineer | Healthcare Professional | Problem Solver</h3>
+<h3 align="center">Software Developer | Engineer | Healthcare Professional</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=serhattastan&label=Profile%20views&color=0e75b6&style=flat" alt="serhattastan" />
@@ -9,19 +9,18 @@
 
 ### 🚀 About Me
 
-I am a **software developer** trained in engineering discipline and an **active healthcare professional**. I believe we are in an era where being a **generalist** is a true superpower. Instead of being confined to a single title, I focus on solving problems using every tool in my arsenal—whether it's code, engineering logic, or clinical experience.
+I am a **software developer** trained in engineering discipline and an **active healthcare professional**. I focus on solving complex problems by integrating technical logic with real-world clinical experience.
 
-- 🏥 Currently serving as a **Nurse** in the **Cardiac Catheterization Lab (Cath Lab)** at Başakşehir Çam ve Sakura City Hospital while building scalable digital solutions.
+- 🏥 Currently serving as a **Nurse** in the **Cath Lab** at Başakşehir Çam ve Sakura City Hospital.
 - 🎓 Former **Android & Web Developer Trainer** at Ostim OSB Technical College.
-- 💡 My philosophy: **"Whether at the hospital or the keyboard, I aim to simplify the complex and improve the process."**
-- 🌱 Actively developing with **Kotlin, Jetpack Compose** for Android and **ASP.NET** for Web.
-- 💼 Open for **Freelance** collaborations and innovative projects.
+- 💡 Philosophy: **"Simplify the complex and improve the process, no matter the environment."**
+- 🌱 Actively developing with **Kotlin, Jetpack Compose** and **ASP.NET**.
 
 ---
 
 ### 🛠 Languages and Tools
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
     <td align="center"><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a></td>
@@ -41,15 +40,7 @@ I am a **software developer** trained in engineering discipline and an **active 
 
 ---
 
-### 📈 GitHub Stats & Writing
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serhattastan&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="serhattastan" />
-</p>
-
-- 📝 I write about Android & software trends on [Medium](https://medium.com/@serhattastan).
-- 💬 Ask me about: **Kotlin, Jetpack Compose, ASP.NET, or Crisis Management in High-Pressure Environments.**
-- 📫 Reach me at: **serhattastannn@gmail.com**
+### 📈 Contact & Presence
 
 <p align="center">
   <a href="https://www.linkedin.com/in/serhat-ta%C5%9Ftan-2100b820b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="serhat-tastan" /></a>&nbsp;
