@@ -44,9 +44,11 @@ I am a **software developer** trained in engineering discipline and an **active 
 ---
 
 ### ⚡ Current Status
+<p align="center">
 ![Nurse Mode](https://img.shields.io/badge/Status-Saving_Lives-red?style=flat-square&logo=healthreview)
 ![Dev Mode](https://img.shields.io/badge/Status-Building_Apps-blue?style=flat-square&logo=android)
 ![Engineer Mode](https://img.shields.io/badge/Status-Solving_Systems-orange?style=flat-square&logo=cog)
+</p>
 
 ### 📈 Contact & Presence
 
