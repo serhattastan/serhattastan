@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhat Taştan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Android+%26+Web+Developer;Engineering+Discipline;Healthcare+Professional;Problem+Solver+by+Nature" alt="Typing SVG" />
+</p>
 <h3 align="center">Software Developer | Engineer | Healthcare Professional</h3>
 
 <p align="center">
