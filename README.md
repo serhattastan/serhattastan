@@ -54,8 +54,3 @@ I am a **software developer** trained in engineering discipline and an **active 
   <a href="https://www.linkedin.com/in/serhat-ta%C5%9Ftan-2100b820b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="serhat-tastan" /></a>&nbsp;
   <a href="https://medium.com/@serhattastan" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@serhattastan" /></a>
 </p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serhattastan&theme=radar&no-bg=true&margin-w=15" alt="serhattastan trophies" /></a>
-</p>
